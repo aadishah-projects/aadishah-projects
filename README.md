@@ -59,17 +59,3 @@ Feel free to explore more projects on my profile!
 </p>
 
 ---
-
-### 🎯 Future Goals:
-- **Full-Stack Mastery**: Master frontend technologies (React, Vue) and backend (Django REST Framework, Node.js).
-- **Contribute to Open-Source**: Collaborate with developers around the world on meaningful open-source projects.
-- **Build Impactful Projects**: Work on projects that solve real-world problems and improve people's lives.
-
----
-
-### 📈 GitHub Stats:
-
-![Aditya Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadishah-projects&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark)
-
----
-
