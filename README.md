@@ -13,8 +13,8 @@
 
 ### 👨‍💻 My Skills:
 - **Languages**: Python, C, C++, HTML, CSS, JavaScript
-- **Frameworks & Tools**: Django, Django REST Framework, Bootstrap, jQuery, Flask, Git, GitHub, MySQL
-- **Other Interests**: Game Development, Automation, Machine Learning
+- **Frameworks & Tools**: Django, Django REST Framework, Bootstrap, Flask, Git, GitHub, MySQL
+- **Other Interests**: Game Development
 
 ---
 
@@ -30,9 +30,9 @@ Feel free to explore more projects on my profile!
 ---
 
 ### 📫 How to Reach Me:
-- **Email**: [adityakshah69@gmail.com](mailto:adityakshah69@gmail.com)
-- **LinkedIn**: [Aditya Shah](https://www.linkedin.com/in/aditya-shah)
-- **Twitter**: [@Aditya_Shah](https://twitter.com/Aditya_Shah)
+- **Email**: [adityakshah66@gmail.com](mailto:adityakshah66@gmail.com)
+- **Instagram**: [@its.adityashah](https://www.instagram.com/its.adityashah/)
+- **Facebook**: [@AadityaShah123](https://www.facebook.com/AadityaShah123)
 
 ---
 
@@ -73,5 +73,3 @@ Feel free to explore more projects on my profile!
 
 ---
 
-### 💬 Fun Fact:
-I love exploring new technologies and am passionate about coding challenges. If you have any interesting ideas, feel free to reach out! 🤖💻
