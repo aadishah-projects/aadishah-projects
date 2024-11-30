@@ -13,7 +13,7 @@
 
 ### 👨‍💻 My Skills:
 - **Languages**: Python, C, C++, HTML, CSS, JavaScript
-- **Frameworks & Tools**: Django, Django REST Framework, Bootstrap, Flask, Git, GitHub, MySQL
+- **Frameworks & Tools**: Django, Django REST Framework, Bootstrap, Pygame, Git, GitHub, MySQL
 - **Other Interests**: Game Development
 
 ---
