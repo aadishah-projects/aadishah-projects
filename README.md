@@ -10,6 +10,8 @@
 ### 🌱 About Me:
 - I’m currently focusing on **Backend Development with Django** and learning **Frontend Development** to become a full-stack developer.
 - I'm a firm believer in **coding** to solve real-world problems and **collaborating** on innovative projects.
+  
+---
 
 ### 👨‍💻 My Skills:
 - **Languages**: Python, C, C++, HTML, CSS, JavaScript
@@ -23,8 +25,8 @@ Here are some of the projects I've been working on:
 
 - **[Alien-Invasion](https://github.com/aadishah-projects/Alien-Invasion)**: A 2D arcade-style game built using Python and Pygame, where players defend Earth by shooting down alien spaceships.
 - **[Grocery Management-By-C](https://github.com/aadishah-projects/Grocery_Management-By-C)**: A command-line based system to manage grocery store inventories.
-- **[Interface Infotech Systems](https://github.com/aadishah-projects/Interface-Infotech-Systems)**: A company project focused on security systems in Nepal (coming soon).
-
+- **[Superstar Electronics - CCTV & Security Systems Nepal ](https://www.facebook.com/profile.php?id=61565611007300)**: A Business Company that provides top-quality CCTV cameras and security systems in Nepal.
+  
 Feel free to explore more projects on my profile!
 
 ---
