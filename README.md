@@ -21,8 +21,8 @@
 ### 🚀 Projects:
 Here are some of the projects I've been working on:
 
+- **[Alien-Invasion](https://github.com/aadishah-projects/Alien-Invasion)**: A 2D arcade-style game built using Python and Pygame, where players defend Earth by shooting down alien spaceships.
 - **[Grocery Management-By-C](https://github.com/aadishah-projects/Grocery_Management-By-C)**: A command-line based system to manage grocery store inventories.
-- **[Sideways-Shooter-2D](https://github.com/aadishah-projects/Sideways-Shooter-2D)**: A 2D shooter game framework with basic movement and shooting mechanics.
 - **[Interface Infotech Systems](https://github.com/aadishah-projects/Interface-Infotech-Systems)**: A company project focused on security systems in Nepal (coming soon).
 
 Feel free to explore more projects on my profile!
