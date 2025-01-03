@@ -15,8 +15,9 @@
 
 ### 👨‍💻 My Skills:
 - **Languages**: Python, C, C++, HTML, CSS, JavaScript
-- **Frameworks & Tools**: Django, Django REST Framework, Bootstrap, Pygame, Git, GitHub, MySQL
-- **Other Interests**: Game Development
+- **Frameworks & Tools**: Django, Django REST Framework, ReactJs, Tailwind CSS ,Scrapy ,Bootstrap, Pygame, Git, GitHub, MySQL
+- **Libraries Explored**: Pygame, Skilit-Learn, Numpy, Pandas
+- **Other Interests**: Game Development, PhotoEditing, VideoEditing , Social Media Marketing, Business
 
 ---
 
@@ -25,7 +26,7 @@ Here are some of the projects I've been working on:
 
 - **[Alien-Invasion](https://github.com/aadishah-projects/Alien-Invasion)**: A 2D arcade-style game built using Python and Pygame, where players defend Earth by shooting down alien spaceships.
 - **[Grocery Management-By-C](https://github.com/aadishah-projects/Grocery_Management-By-C)**: A command-line based system to manage grocery store inventories.
-- **[Superstar Electronics - CCTV & Security Systems Nepal ](https://www.facebook.com/profile.php?id=61565611007300)**: A Business Company that provides top-quality CCTV cameras and security systems in Nepal.
+- **[Superstar Electronics - CCTV & Security Systems Nepal ](https://hikvisionn-paudelkirans-projects.vercel.app/)**: A Business Company that provides top-quality CCTV cameras and security systems in Nepal.
   
 Feel free to explore more projects on my profile!
 
@@ -35,7 +36,7 @@ Feel free to explore more projects on my profile!
 - **Email**: [adityakshah66@gmail.com](mailto:adityakshah66@gmail.com)
 - **Instagram**: [@its.adityashah](https://www.instagram.com/its.adityashah/)
 - **Facebook**: [@AadityaShah123](https://www.facebook.com/AadityaShah123)
-
+- ""LinkedIn**: [@AdityaShahj](https://www.linkedin.com/in/aditya-shah-86370a344/)
 ---
 
 ### 🔧 Languages & Tools:
