@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Shah</h1>
+<h1 align="center">Hi, I'm Aditya Shah</h1>
 <h3 align="center">An Aspiring Full-Stack Developer from Nepal</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 ---
 
-### 🌱 About Me:
+###  About Me:
 - I’m currently focusing on **Backend Development with Django** and learning **Frontend Development** to become a full-stack developer.
 - I'm a firm believer in **coding** to solve real-world problems and **collaborating** on innovative projects.
   
 ---
 
-### 👨‍💻 My Skills:
+###  My Skills:
 - **Languages**: Python, C, C++, HTML, CSS, JavaScript
 - **Frameworks & Tools**: Django, Django REST Framework, ReactJs, Tailwind CSS ,Scrapy ,Bootstrap, Pygame, Git, GitHub, MySQL
 - **Libraries Explored**: Pygame, Skilit-Learn, Numpy, Pandas
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Projects:
+###  Projects:
 Here are some of the projects I've been working on:
 
 - **[Alien-Invasion](https://github.com/aadishah-projects/Alien-Invasion)**: A 2D arcade-style game built using Python and Pygame, where players defend Earth by shooting down alien spaceships.
@@ -32,14 +32,14 @@ Feel free to explore more projects on my profile!
 
 ---
 
-### 📫 How to Reach Me:
+###  How to Reach Me:
 - **Email**: [adityakshah66@gmail.com](mailto:adityakshah66@gmail.com)
 - **Instagram**: [@its.adityashah](https://www.instagram.com/its.adityashah/)
 - **Facebook**: [@AadityaShah123](https://www.facebook.com/AadityaShah123)
 - **LinkedIn**: [@AdityaShahj](https://www.linkedin.com/in/aditya-shah-86370a344/)
 ---
 
-### 🔧 Languages & Tools:
+###  Languages & Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
