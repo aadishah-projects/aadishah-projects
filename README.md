@@ -36,7 +36,7 @@ Feel free to explore more projects on my profile!
 - **Email**: [adityakshah66@gmail.com](mailto:adityakshah66@gmail.com)
 - **Instagram**: [@its.adityashah](https://www.instagram.com/its.adityashah/)
 - **Facebook**: [@AadityaShah123](https://www.facebook.com/AadityaShah123)
-- ""LinkedIn**: [@AdityaShahj](https://www.linkedin.com/in/aditya-shah-86370a344/)
+- **LinkedIn**: [@AdityaShahj](https://www.linkedin.com/in/aditya-shah-86370a344/)
 ---
 
 ### 🔧 Languages & Tools:
