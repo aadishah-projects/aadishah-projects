@@ -15,7 +15,7 @@
 
 ###  My Skills:
 - **Languages**: Python, C, C++, HTML, CSS, JavaScript
-- **Frameworks & Tools**: Django, Django REST Framework, ReactJs, Tailwind CSS ,Scrapy ,Bootstrap, Pygame, Git, GitHub, MySQL
+- **Frameworks & Tools**: Django, Django REST Framework, ReactJs, Tailwind CSS ,Scrapy ,Bootstrap, Git, GitHub, MySQL
 - **Libraries Explored**: Pygame, Skilit-Learn, Numpy, Pandas
 - **Other Interests**: Game Development, PhotoEditing, VideoEditing , Social Media Marketing, Business
 
